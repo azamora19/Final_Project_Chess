@@ -1,0 +1,75 @@
+########## KRBNPvKN ##########
+
+White to move:
+
+601144248757 positions win in 1 ply.
+996570688 positions win in 2 ply.
+61066289049 positions win in 3 ply.
+247092429 positions win in 4 ply.
+5416089821 positions win in 5 ply.
+19584465 positions win in 6 ply.
+156270552 positions win in 7 ply.
+450259 positions win in 8 ply.
+1660390 positions win in 9 ply.
+9250 positions win in 10 ply.
+48499 positions win in 11 ply.
+189 positions win in 12 ply.
+964 positions win in 13 ply.
+10 positions win in 14 ply.
+27 positions win in 15 ply.
+6 positions win in 17 ply.
+2 positions win in 19 ply.
+61929 positions win in 102 ply.
+203 positions win in 104 ply.
+8 positions win in 106 ply.
+
+669048315357 positions are wins.
+62140 positions are cursed wins.
+30286553 positions are draws.
+2089424 positions are losses.
+
+2087119 positions lose in 0 ply.
+2149 positions lose in 2 ply.
+92 positions lose in 4 ply.
+64 positions lose in 6 ply.
+
+Black to move:
+
+10303195 positions win in 1 ply.
+16521 positions win in 3 ply.
+458 positions win in 5 ply.
+97 positions win in 7 ply.
+
+10320271 positions are wins.
+4186447291 positions are draws.
+5004189 positions are cursed losses.
+961678123369 positions are losses.
+
+1784667634 positions lose in 0 ply.
+3027222137 positions lose in 1 ply.
+729770085207 positions lose in 2 ply.
+3200601322 positions lose in 3 ply.
+196479042359 positions lose in 4 ply.
+1042209282 positions lose in 5 ply.
+25441840215 positions lose in 6 ply.
+94381571 positions lose in 7 ply.
+827497089 positions lose in 8 ply.
+2084857 positions lose in 9 ply.
+8196366 positions lose in 10 ply.
+42306 positions lose in 11 ply.
+247546 positions lose in 12 ply.
+787 positions lose in 13 ply.
+4558 positions lose in 14 ply.
+25 positions lose in 15 ply.
+91 positions lose in 16 ply.
+16 positions lose in 18 ply.
+1 positions lose in 20 ply.
+4705370 positions lose in 101 ply.
+298218 positions lose in 103 ply.
+562 positions lose in 105 ply.
+39 positions lose in 107 ply.
+
+Longest win for white: 20 ply; 8/8/8/8/Nk5n/RP4K1/B7/8 b - -
+Longest cursed win for white: 107 ply; 1k6/RN6/P6B/8/7K/6n1/8/8 b - -
+Longest win for black: 7 ply; KRB5/1P6/4n3/k7/8/8/8/N7 b - -
+
