@@ -1,0 +1,34 @@
+########## KQQBPPvK ##########
+
+White to move:
+
+292059673676 positions win in 1 ply.
+1369116872 positions win in 2 ply.
+1024984184 positions win in 3 ply.
+69508 positions win in 4 ply.
+24456 positions win in 5 ply.
+4 positions win in 6 ply.
+
+294453868700 positions are wins.
+42016 positions are draws.
+0 positions are losses.
+
+
+Black to move:
+
+
+0 positions are wins.
+20337663124 positions are draws.
+764958774956 positions are losses.
+
+43106635980 positions lose in 0 ply.
+44527078940 positions lose in 1 ply.
+668930543880 positions lose in 2 ply.
+5293336932 positions lose in 3 ply.
+3100902432 positions lose in 4 ply.
+196144 positions lose in 5 ply.
+80624 positions lose in 6 ply.
+24 positions lose in 7 ply.
+
+Longest win for white: 7 ply; QK6/QP6/BPk5/8/8/8/8/8 b - -
+
