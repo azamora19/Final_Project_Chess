@@ -1,0 +1,58 @@
+########## KQPPPvKP ##########
+
+White to move:
+
+271491765606 positions win in 1 ply.
+221015208 positions win in 2 ply.
+763188918 positions win in 3 ply.
+308742 positions win in 4 ply.
+1091400 positions win in 5 ply.
+816 positions win in 6 ply.
+5832 positions win in 7 ply.
+6 positions win in 8 ply.
+282 positions win in 9 ply.
+750 positions win in 102 ply.
+
+272477376810 positions are wins.
+750 positions are cursed wins.
+4288188 positions are draws.
+2905080 positions are losses.
+
+412812 positions lose in 0 ply.
+5178 positions lose in 1 ply.
+2486568 positions lose in 2 ply.
+492 positions lose in 4 ply.
+24 positions lose in 6 ply.
+6 positions lose in 8 ply.
+
+Black to move:
+
+5275045422 positions win in 1 ply.
+10626 positions win in 2 ply.
+29832 positions win in 3 ply.
+828 positions win in 5 ply.
+36 positions win in 7 ply.
+
+5275086744 positions are wins.
+3169727928 positions are draws.
+1205832 positions are cursed losses.
+409769709816 positions are losses.
+
+1361881170 positions lose in 0 ply.
+9783391908 positions lose in 1 ply.
+397552902354 positions lose in 2 ply.
+471446418 positions lose in 3 ply.
+598986420 positions lose in 4 ply.
+233586 positions lose in 5 ply.
+857424 positions lose in 6 ply.
+594 positions lose in 7 ply.
+9798 positions lose in 8 ply.
+12 positions lose in 9 ply.
+132 positions lose in 10 ply.
+1205748 positions lose in 101 ply.
+84 positions lose in 103 ply.
+
+Longest win for white: 10 ply; 8/8/Q1P5/1P6/8/P6k/p7/6K1 b - -
+Longest cursed win for white: 103 ply; 8/7k/8/4P1P1/6PQ/8/p7/3K4 b - -
+Longest win for black: 8 ply; 8/6PQ/6PP/8/8/7k/1p6/7K w - -
+
