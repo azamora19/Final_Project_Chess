@@ -1,0 +1,69 @@
+########## KQRRvKBP ##########
+
+White to move:
+
+396429028878 positions win in 1 ply.
+10849699018 positions win in 2 ply.
+38250256408 positions win in 3 ply.
+856524682 positions win in 4 ply.
+1881089002 positions win in 5 ply.
+379752 positions win in 6 ply.
+2384532 positions win in 7 ply.
+92130 positions win in 8 ply.
+480784 positions win in 9 ply.
+2 positions win in 101 ply.
+336 positions win in 102 ply.
+40 positions win in 104 ply.
+
+448269935186 positions are wins.
+378 positions are cursed wins.
+65696798 positions are draws.
+56964 positions are cursed losses.
+25248806 positions are losses.
+
+3056458 positions lose in 0 ply.
+101568 positions lose in 1 ply.
+21582818 positions lose in 2 ply.
+978 positions lose in 3 ply.
+480766 positions lose in 4 ply.
+26218 positions lose in 6 ply.
+56388 positions lose in 102 ply.
+576 positions lose in 104 ply.
+
+Black to move:
+
+1571366318 positions win in 1 ply.
+64422 positions win in 2 ply.
+15240564 positions win in 3 ply.
+81846 positions win in 5 ply.
+140 positions win in 7 ply.
+3605184 positions win in 101 ply.
+35270 positions win in 103 ply.
+480 positions win in 105 ply.
+
+1586753290 positions are wins.
+3640934 positions are cursed wins.
+4620337436 positions are draws.
+77236 positions are cursed losses.
+888936021240 positions are losses.
+
+32140363728 positions lose in 0 ply.
+37514057678 positions lose in 1 ply.
+642707093650 positions lose in 2 ply.
+42497311714 positions lose in 3 ply.
+126474477674 positions lose in 4 ply.
+2404172690 positions lose in 5 ply.
+5197411374 positions lose in 6 ply.
+168756 positions lose in 7 ply.
+963568 positions lose in 8 ply.
+112 positions lose in 9 ply.
+296 positions lose in 10 ply.
+76530 positions lose in 101 ply.
+4 positions lose in 102 ply.
+702 positions lose in 103 ply.
+
+Longest win for white: 10 ply; 8/2QRb3/8/8/3K2k1/8/p7/1R6 b - -
+Longest cursed win for white: 104 ply; R2Q4/8/3R4/8/8/1k6/2p5/bK6 w - -
+Longest cursed win for black: 105 ply; 2R5/3R4/8/2b1k3/7K/8/p7/1Q6 b - -
+Longest win for black: 7 ply; 6k1/8/8/8/R4K2/b1R5/p7/1Q6 b - -
+
