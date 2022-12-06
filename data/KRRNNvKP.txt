@@ -1,0 +1,68 @@
+########## KRRNNvKP ##########
+
+White to move:
+
+331075838316 positions win in 1 ply.
+54336667796 positions win in 2 ply.
+187545888168 positions win in 3 ply.
+395315684 positions win in 4 ply.
+654652104 positions win in 5 ply.
+292676 positions win in 6 ply.
+229228 positions win in 7 ply.
+108 positions win in 8 ply.
+1460 positions win in 9 ply.
+8 positions win in 10 ply.
+104 positions win in 11 ply.
+8 positions win in 12 ply.
+20 positions win in 13 ply.
+8 positions win in 15 ply.
+1020 positions win in 102 ply.
+12 positions win in 104 ply.
+
+574008885688 positions are wins.
+1032 positions are cursed wins.
+18322944 positions are draws.
+32 positions are cursed losses.
+2703128 positions are losses.
+
+338180 positions lose in 0 ply.
+2364948 positions lose in 2 ply.
+32 positions lose in 102 ply.
+
+Black to move:
+
+435321008 positions win in 1 ply.
+5488 positions win in 3 ply.
+100972 positions win in 101 ply.
+
+435326496 positions are wins.
+100972 positions are cursed wins.
+9343328360 positions are draws.
+3938644 positions are cursed losses.
+1013019706808 positions are losses.
+
+12035671612 positions lose in 0 ply.
+29735106996 positions lose in 1 ply.
+521911942148 positions lose in 2 ply.
+75156797932 positions lose in 3 ply.
+372173923928 positions lose in 4 ply.
+1158538372 positions lose in 5 ply.
+847485936 positions lose in 6 ply.
+75124 positions lose in 7 ply.
+161080 positions lose in 8 ply.
+284 positions lose in 9 ply.
+2900 positions lose in 10 ply.
+32 positions lose in 11 ply.
+348 positions lose in 12 ply.
+24 positions lose in 13 ply.
+68 positions lose in 14 ply.
+24 positions lose in 16 ply.
+3938164 positions lose in 101 ply.
+448 positions lose in 103 ply.
+32 positions lose in 105 ply.
+
+Longest win for white: 16 ply; 1N6/7R/8/7R/8/7k/1p6/N5K1 b - -
+Longest cursed win for white: 105 ply; 8/6R1/8/1K1k1R2/8/8/1p6/4N2N b - -
+Longest cursed win for black: 102 ply; 3N4/8/8/8/3R4/8/1p6/K1k1N1R1 w - -
+Longest win for black: 3 ply; 8/8/8/8/8/1k1N4/p7/2KRR2N b - -
+
