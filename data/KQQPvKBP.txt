@@ -1,0 +1,69 @@
+########## KQQPvKBP ##########
+
+White to move:
+
+334315284808 positions win in 1 ply.
+1618243122 positions win in 2 ply.
+14643340192 positions win in 3 ply.
+103512842 positions win in 4 ply.
+181775904 positions win in 5 ply.
+89906 positions win in 6 ply.
+675336 positions win in 7 ply.
+7980 positions win in 8 ply.
+30884 positions win in 9 ply.
+24 positions win in 11 ply.
+16 positions win in 13 ply.
+2 positions win in 15 ply.
+14074 positions win in 101 ply.
+3558 positions win in 102 ply.
+44 positions win in 103 ply.
+74 positions win in 104 ply.
+
+350862961016 positions are wins.
+17750 positions are cursed wins.
+92221452 positions are draws.
+10745830 positions are losses.
+
+3299094 positions lose in 0 ply.
+110928 positions lose in 1 ply.
+6883288 positions lose in 2 ply.
+3580 positions lose in 3 ply.
+426682 positions lose in 4 ply.
+22258 positions lose in 6 ply.
+
+Black to move:
+
+439566746 positions win in 1 ply.
+86604 positions win in 2 ply.
+7550624 positions win in 3 ply.
+24170 positions win in 5 ply.
+14 positions win in 101 ply.
+
+447228144 positions are wins.
+14 positions are cursed wins.
+4699188442 positions are draws.
+461310 positions are cursed losses.
+663910750128 positions are losses.
+
+20333990148 positions lose in 0 ply.
+29610603722 positions lose in 1 ply.
+562017769232 positions lose in 2 ply.
+6893166468 positions lose in 3 ply.
+44236227360 positions lose in 4 ply.
+298815402 positions lose in 5 ply.
+520074100 positions lose in 6 ply.
+23496 positions lose in 7 ply.
+80056 positions lose in 8 ply.
+108 positions lose in 10 ply.
+24 positions lose in 12 ply.
+12 positions lose in 14 ply.
+458638 positions lose in 101 ply.
+910 positions lose in 102 ply.
+1754 positions lose in 103 ply.
+2 positions lose in 104 ply.
+6 positions lose in 105 ply.
+
+Longest win for white: 15 ply; 8/8/8/7K/8/2P2QQ1/k1p5/3b4 w - -
+Longest cursed win for white: 105 ply; 2K5/8/3k4/1P6/8/5b2/1Q1p4/4Q3 b - -
+Longest win for black: 6 ply; 8/P7/8/8/5QQ1/2k5/1p6/K2b4 w - -
+
