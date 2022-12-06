@@ -1,0 +1,69 @@
+########## KQRNvKPP ##########
+
+White to move:
+
+339446348248 positions win in 1 ply.
+19814908756 positions win in 2 ply.
+37457021828 positions win in 3 ply.
+68793998 positions win in 4 ply.
+156808006 positions win in 5 ply.
+34192 positions win in 6 ply.
+44714 positions win in 7 ply.
+778 positions win in 8 ply.
+2806 positions win in 9 ply.
+144 positions win in 10 ply.
+534 positions win in 11 ply.
+8 positions win in 12 ply.
+90 positions win in 13 ply.
+16 positions win in 15 ply.
+4 positions win in 17 ply.
+512 positions win in 102 ply.
+
+396943964122 positions are wins.
+512 positions are cursed wins.
+74242620 positions are draws.
+88 positions are cursed losses.
+16923998 positions are losses.
+
+1824214 positions lose in 0 ply.
+113288 positions lose in 1 ply.
+14986496 positions lose in 2 ply.
+88 positions lose in 102 ply.
+
+Black to move:
+
+4494835106 positions win in 1 ply.
+190 positions win in 3 ply.
+68860 positions win in 101 ply.
+
+4494835296 positions are wins.
+68860 positions are cursed wins.
+10197624484 positions are draws.
+207912 positions are cursed losses.
+727198642888 positions are losses.
+
+13769309754 positions lose in 0 ply.
+32327645956 positions lose in 1 ply.
+566210917688 positions lose in 2 ply.
+29068065616 positions lose in 3 ply.
+85787190708 positions lose in 4 ply.
+12214048 positions lose in 5 ply.
+23215006 positions lose in 6 ply.
+23834 positions lose in 7 ply.
+54172 positions lose in 8 ply.
+1136 positions lose in 9 ply.
+3986 positions lose in 10 ply.
+166 positions lose in 11 ply.
+630 positions lose in 12 ply.
+14 positions lose in 13 ply.
+118 positions lose in 14 ply.
+44 positions lose in 16 ply.
+12 positions lose in 18 ply.
+207908 positions lose in 101 ply.
+4 positions lose in 103 ply.
+
+Longest win for white: 18 ply; 1N5R/8/8/8/k6Q/8/2pp4/7K b - -
+Longest cursed win for white: 103 ply; 8/4Q3/2N5/4R3/8/8/1p1p4/1K2k3 b - -
+Longest cursed win for black: 102 ply; 8/8/3Q4/8/8/N1k5/pp6/R1K5 w - -
+Longest win for black: 3 ply; 8/2R3Q1/5N2/8/K7/8/pp6/6k1 b - -
+
