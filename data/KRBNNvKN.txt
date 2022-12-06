@@ -1,0 +1,69 @@
+########## KRBNNvKN ##########
+
+White to move:
+
+100774824193 positions win in 1 ply.
+2651990454 positions win in 2 ply.
+38651669700 positions win in 3 ply.
+6800349530 positions win in 4 ply.
+33061604240 positions win in 5 ply.
+5877845141 positions win in 6 ply.
+16452498541 positions win in 7 ply.
+2112984415 positions win in 8 ply.
+3587904078 positions win in 9 ply.
+212312450 positions win in 10 ply.
+233070416 positions win in 11 ply.
+4303740 positions win in 12 ply.
+3507214 positions win in 13 ply.
+30832 positions win in 14 ply.
+27052 positions win in 15 ply.
+586 positions win in 16 ply.
+462 positions win in 17 ply.
+33352 positions win in 102 ply.
+52 positions win in 104 ply.
+6 positions win in 106 ply.
+
+210424923044 positions are wins.
+33410 positions are cursed wins.
+5977996 positions are draws.
+585730 positions are losses.
+
+585730 positions lose in 0 ply.
+
+Black to move:
+
+2969290 positions win in 1 ply.
+
+2969290 positions are wins.
+960644192 positions are draws.
+2152248 positions are cursed losses.
+320751587070 positions are losses.
+
+863203622 positions lose in 0 ply.
+1303353468 positions lose in 1 ply.
+66360611856 positions lose in 2 ply.
+4879749069 positions lose in 3 ply.
+40739703731 positions lose in 4 ply.
+14805899317 positions lose in 5 ply.
+76115586351 positions lose in 6 ply.
+21650220424 positions lose in 7 ply.
+61915125202 positions lose in 8 ply.
+11029942883 positions lose in 9 ply.
+18527636060 positions lose in 10 ply.
+1219736253 positions lose in 11 ply.
+1297510257 positions lose in 12 ply.
+23875708 positions lose in 13 ply.
+19131557 positions lose in 14 ply.
+160116 positions lose in 15 ply.
+136250 positions lose in 16 ply.
+2698 positions lose in 17 ply.
+2248 positions lose in 18 ply.
+1985388 positions lose in 101 ply.
+166666 positions lose in 103 ply.
+158 positions lose in 105 ply.
+36 positions lose in 107 ply.
+
+Longest win for white: 18 ply; 8/8/8/8/8/8/N1nkN3/RK1B4 b - -
+Longest cursed win for white: 107 ply; 8/8/6N1/4R3/8/8/1nNK1B2/5k2 b - -
+Longest win for black: 1 ply; 8/8/8/8/8/8/RB6/NKNk1n2 b - -
+

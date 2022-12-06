@@ -1,0 +1,73 @@
+########## KRBBPvKB ##########
+
+White to move:
+
+557473540334 positions win in 1 ply.
+1032434388 positions win in 2 ply.
+63676507812 positions win in 3 ply.
+242236334 positions win in 4 ply.
+8610616378 positions win in 5 ply.
+22907922 positions win in 6 ply.
+895415962 positions win in 7 ply.
+2533910 positions win in 8 ply.
+52279002 positions win in 9 ply.
+100470 positions win in 10 ply.
+2424908 positions win in 11 ply.
+1568 positions win in 12 ply.
+36602 positions win in 13 ply.
+38 positions win in 14 ply.
+1720 positions win in 15 ply.
+6 positions win in 16 ply.
+336 positions win in 17 ply.
+44 positions win in 19 ply.
+
+632011037734 positions are wins.
+1361451700 positions are draws.
+11501174 positions are losses.
+
+6080670 positions lose in 0 ply.
+89428 positions lose in 1 ply.
+5302396 positions lose in 2 ply.
+21484 positions lose in 4 ply.
+6364 positions lose in 6 ply.
+788 positions lose in 8 ply.
+44 positions lose in 10 ply.
+
+Black to move:
+
+28375192 positions win in 1 ply.
+415434 positions win in 2 ply.
+17100838 positions win in 3 ply.
+77826 positions win in 5 ply.
+19924 positions win in 7 ply.
+2466 positions win in 9 ply.
+92 positions win in 11 ply.
+
+45991772 positions are wins.
+39539765662 positions are draws.
+882220547478 positions are losses.
+
+2490138150 positions lose in 0 ply.
+3769953632 positions lose in 1 ply.
+656118875830 positions lose in 2 ply.
+3225734786 positions lose in 3 ply.
+184178634312 positions lose in 4 ply.
+777124566 positions lose in 5 ply.
+28483811912 positions lose in 6 ply.
+65919148 positions lose in 7 ply.
+2968718842 positions lose in 8 ply.
+6213188 positions lose in 9 ply.
+131596962 positions lose in 10 ply.
+178998 positions lose in 11 ply.
+3567646 positions lose in 12 ply.
+2840 positions lose in 13 ply.
+70202 positions lose in 14 ply.
+42 positions lose in 15 ply.
+5978 positions lose in 16 ply.
+2 positions lose in 17 ply.
+388 positions lose in 18 ply.
+54 positions lose in 20 ply.
+
+Longest win for white: 20 ply; K4B2/P1k4R/8/2B5/8/8/8/5b2 b - -
+Longest win for black: 11 ply; K7/P7/1k6/8/8/8/3B4/R1B2b2 b - -
+

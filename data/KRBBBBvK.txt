@@ -1,0 +1,60 @@
+########## KRBBBBvK ##########
+
+White to move:
+
+11937513024 positions win in 1 ply.
+22888356900 positions win in 2 ply.
+18710665968 positions win in 3 ply.
+34170080196 positions win in 4 ply.
+23438183628 positions win in 5 ply.
+28011467592 positions win in 6 ply.
+5401549176 positions win in 7 ply.
+5940290472 positions win in 8 ply.
+1551014748 positions win in 9 ply.
+4034183976 positions win in 10 ply.
+976065876 positions win in 11 ply.
+2451396276 positions win in 12 ply.
+383907480 positions win in 13 ply.
+658950468 positions win in 14 ply.
+36561708 positions win in 15 ply.
+24764664 positions win in 16 ply.
+161928 positions win in 17 ply.
+32256 positions win in 18 ply.
+60 positions win in 19 ply.
+
+160615146396 positions are wins.
+1277820 positions are draws.
+0 positions are losses.
+
+
+Black to move:
+
+
+0 positions are wins.
+7608531900 positions are draws.
+342990364020 positions are losses.
+
+5498172132 positions lose in 0 ply.
+7998349812 positions lose in 1 ply.
+13540191816 positions lose in 2 ply.
+32969096328 positions lose in 3 ply.
+37032230892 positions lose in 4 ply.
+68213375616 positions lose in 5 ply.
+54041368056 positions lose in 6 ply.
+70624911372 positions lose in 7 ply.
+15653876136 positions lose in 8 ply.
+13207225500 positions lose in 9 ply.
+2759810832 positions lose in 10 ply.
+7901412576 positions lose in 11 ply.
+2454447684 positions lose in 12 ply.
+7410181812 positions lose in 13 ply.
+1246448280 positions lose in 14 ply.
+2197449876 positions lose in 15 ply.
+144175584 positions lose in 16 ply.
+96798588 positions lose in 17 ply.
+704676 positions lose in 18 ply.
+136296 positions lose in 19 ply.
+156 positions lose in 20 ply.
+
+Longest win for white: 20 ply; 8/6BR/5B1B/5kB1/8/8/8/K7 b - -
+
