@@ -1,0 +1,36 @@
+########## KRRRPPvK ##########
+
+White to move:
+
+370750370076 positions win in 1 ply.
+2742516552 positions win in 2 ply.
+2230755768 positions win in 3 ply.
+472872 positions win in 4 ply.
+1242480 positions win in 5 ply.
+168 positions win in 6 ply.
+516 positions win in 7 ply.
+
+375725358432 positions are wins.
+446148 positions are draws.
+0 positions are losses.
+
+
+Black to move:
+
+
+0 positions are wins.
+7747266120 positions are draws.
+777549171960 positions are losses.
+
+24451112424 positions lose in 0 ply.
+30672621780 positions lose in 1 ply.
+705371774724 positions lose in 2 ply.
+10916849088 positions lose in 3 ply.
+6133072140 positions lose in 4 ply.
+1026756 positions lose in 5 ply.
+2713584 positions lose in 6 ply.
+348 positions lose in 7 ply.
+1116 positions lose in 8 ply.
+
+Longest win for white: 8 ply; RRR5/PK6/P7/8/8/8/8/2k5 b - -
+
